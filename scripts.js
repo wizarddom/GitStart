@@ -1,3 +1,3 @@
 $ (function(){
-    console.log("YES");
+    console.log("YES YES YES ");
 });
